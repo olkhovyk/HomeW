@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+		<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+				"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+		<hibernate-mapping>
+	    <class name="entities.Musician" table="musician">
+	        <id name="id" type="java.lang.Long" column="id" />
+	        <property name="firstName" type="string" column="firstname" />
+	        <property name="lastName" type="string" column="lastname" />
+	        <property name="age" type="int" column="age" />
+	        <property name="instrument" type="string" column="instrument" />
+	    </class>
+	</hibernate-mapping>

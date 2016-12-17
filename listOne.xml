@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Objects>
+	<musician>
+		<firstname>Alex</firstname>
+		<lastname>Black</lastname>
+		<age>22</age>
+		<instrument>Drums</instrument>
+	</musician>
+	
+	<band>
+		<name>Annisokay</name>
+		<location>USA</location>
+		<numofmembers>5</numofmembers>
+		<style>Post-Hardcore</style>
+	</band>
+	
+	<concert>
+		<concertname>Zahid</concertname>
+		<concertlocation>Lviv</concertlocation>
+		<date>22.08.17</date>
+	</concert>
+	
+	<musician>
+		<firstname>Tery</firstname>
+		<lastname>Cry</lastname>
+		<age>30</age>
+		<instrument>Guitar</instrument>
+	</musician>
+
+
+</Objects>

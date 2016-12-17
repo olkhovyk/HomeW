@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Objects>
+	<musician>
+		<firstname>Ivan</firstname>
+		<lastname>Shevchenko</lastname>
+		<age>45</age>
+		<instrument>Bass</instrument>
+	</musician>
+	
+	<band>
+		<name>Tartak</name>
+		<location>UA</location>
+		<numofmembers>10</numofmembers>
+		<style>Pop</style>
+	</band>
+	
+	<concert>
+		<concertname>Kubana</concertname>
+		<concertlocation>Urmala</concertlocation>
+		<date>10.05.17</date>
+	</concert>
+	
+	<musician>
+		<firstname>Eden</firstname>
+		<lastname>Milcovych</lastname>
+		<age>15</age>
+		<instrument>Piano</instrument>
+	</musician>
+	
+	<concert>
+		<concertname>Faine Misto</concertname>
+		<concertlocation>Ternopyl</concertlocation>
+		<date>11.03.18</date>
+	</concert>
+	
+	<concert>
+		<concertname>Bandershtat</concertname>
+		<concertlocation>Lutsk</concertlocation>
+		<date>29.05.17</date>
+	</concert>
+
+
+</Objects>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Objects>
+	<musician>
+		<firstname>Albert</firstname>
+		<lastname>Roon</lastname>
+		<age>24</age>
+		<instrument>Drums</instrument>
+	</musician>
+	
+	<band>
+		<name>Crystal Lake</name>
+		<location>Japan</location>
+		<numofmembers>3</numofmembers>
+		<style>Post-Hardcore</style>
+	</band>
+	
+	<concert>
+		<concertname>Tomorrowland</concertname>
+		<concertlocation>Boom, Belgium</concertlocation>
+		<date>01.08.17</date>
+	</concert>
+	
+	<musician>
+		<firstname>Peter</firstname>
+		<lastname>Josua</lastname>
+		<age>29</age>
+		<instrument>Bass</instrument>
+	</musician>
+	
+	<musician>
+		<firstname>Jack</firstname>
+		<lastname>Blasstone</lastname>
+		<age>23</age>
+		<instrument>Drums</instrument>
+	</musician>
+	
+	<band>
+		<name>Linkin Park</name>
+		<location>USA</location>
+		<numofmembers>5</numofmembers>
+		<style>Rock</style>
+	</band>
+	
+	<band>
+		<name>Green Day</name>
+		<location>USA</location>
+		<numofmembers>3</numofmembers>
+		<style>Punk-Rock</style>
+	</band>
+
+
+</Objects>
